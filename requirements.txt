@@ -1,0 +1,9 @@
+pip==21.1.1
+setuptools==56.0.0
+gym-super-mario-bros==7.3.0
+gym==0.21.0
+gym-notices==0.0.8
+gym-retro==0.8.0
+matplotlib~=3.7.3
+stable-baselines3==1.6.0
+numpy==1.23.2
